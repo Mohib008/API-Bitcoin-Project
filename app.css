@@ -1,0 +1,13 @@
+img {
+    hight: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
